@@ -1,6 +1,6 @@
 <!-- Project Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhaykumar/breast-cancer-ml/main/assets/banner.png" alt="Breast Cancer Detection Banner" width="100%">
+  <img src=""C:\Users\m\Desktop\Breast-Cancer-Screening-Early-Detection-BLOG.png.webp"" width="100%">
 </p>
 
 <h1 align="center">🧠 Breast Cancer Detection using Machine Learning</h1>
